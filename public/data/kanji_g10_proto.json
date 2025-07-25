@@ -1,0 +1,2520 @@
+[
+  {
+    "id": "g10-001",
+    "stageId": "",
+    "kanji": "挨",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "アイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-002",
+    "stageId": "",
+    "kanji": "曖",
+    "grade": 10,
+    "strokes": 17,
+    "onyomi": [
+      "アイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-003",
+    "stageId": "",
+    "kanji": "宛",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [],
+    "kunyomi": [
+      "あ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-004",
+    "stageId": "",
+    "kanji": "嵐",
+    "grade": 10,
+    "strokes": 12,
+    "onyomi": [],
+    "kunyomi": [
+      "あらし"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-005",
+    "stageId": "",
+    "kanji": "畏",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "おそ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-006",
+    "stageId": "",
+    "kanji": "萎",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "な"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-007",
+    "stageId": "",
+    "kanji": "椅",
+    "grade": 10,
+    "strokes": 12,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-008",
+    "stageId": "",
+    "kanji": "彙",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-009",
+    "stageId": "",
+    "kanji": "咽",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-010",
+    "stageId": "",
+    "kanji": "淫",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "みだ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-011",
+    "stageId": "",
+    "kanji": "唄",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [],
+    "kunyomi": [
+      "うた"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-012",
+    "stageId": "",
+    "kanji": "鬱",
+    "grade": 10,
+    "strokes": 29,
+    "onyomi": [
+      "ウツ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-013",
+    "stageId": "",
+    "kanji": "怨",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "エン",
+      "オン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-014",
+    "stageId": "",
+    "kanji": "艶",
+    "grade": 10,
+    "strokes": 19,
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "つや"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-015",
+    "stageId": "",
+    "kanji": "旺",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [
+      "オウ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-016",
+    "stageId": "",
+    "kanji": "臆",
+    "grade": 10,
+    "strokes": 17,
+    "onyomi": [
+      "オク"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-017",
+    "stageId": "",
+    "kanji": "俺",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [],
+    "kunyomi": [
+      "おれ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-018",
+    "stageId": "",
+    "kanji": "苛",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-019",
+    "stageId": "",
+    "kanji": "牙",
+    "grade": 10,
+    "strokes": 4,
+    "onyomi": [
+      "ガ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "きば"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-020",
+    "stageId": "",
+    "kanji": "瓦",
+    "grade": 10,
+    "strokes": 5,
+    "onyomi": [
+      "ガ"
+    ],
+    "kunyomi": [
+      "かわら"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-021",
+    "stageId": "",
+    "kanji": "楷",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-022",
+    "stageId": "",
+    "kanji": "潰",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "つぶ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-023",
+    "stageId": "",
+    "kanji": "諧",
+    "grade": 10,
+    "strokes": 16,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-024",
+    "stageId": "",
+    "kanji": "崖",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "ガイ"
+    ],
+    "kunyomi": [
+      "がけ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-025",
+    "stageId": "",
+    "kanji": "蓋",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "ガイ"
+    ],
+    "kunyomi": [
+      "ふた"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-026",
+    "stageId": "",
+    "kanji": "骸",
+    "grade": 10,
+    "strokes": 16,
+    "onyomi": [
+      "ガイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-027",
+    "stageId": "",
+    "kanji": "柿",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [],
+    "kunyomi": [
+      "かき"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-028",
+    "stageId": "",
+    "kanji": "顎",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "ガク"
+    ],
+    "kunyomi": [
+      "あご"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-029",
+    "stageId": "",
+    "kanji": "葛",
+    "grade": 10,
+    "strokes": 12,
+    "onyomi": [
+      "カツ"
+    ],
+    "kunyomi": [
+      "くず"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-030",
+    "stageId": "",
+    "kanji": "釜",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [],
+    "kunyomi": [
+      "かま"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-031",
+    "stageId": "",
+    "kanji": "鎌",
+    "grade": 10,
+    "strokes": 18,
+    "onyomi": [],
+    "kunyomi": [
+      "かま"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-032",
+    "stageId": "",
+    "kanji": "韓",
+    "grade": 10,
+    "strokes": 18,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-033",
+    "stageId": "",
+    "kanji": "玩",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-034",
+    "stageId": "",
+    "kanji": "伎",
+    "grade": 10,
+    "strokes": 6,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-035",
+    "stageId": "",
+    "kanji": "亀",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "かめ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-036",
+    "stageId": "",
+    "kanji": "毀",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-037",
+    "stageId": "",
+    "kanji": "畿",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-038",
+    "stageId": "",
+    "kanji": "臼",
+    "grade": 10,
+    "strokes": 6,
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "うす"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-039",
+    "stageId": "",
+    "kanji": "巾",
+    "grade": 10,
+    "strokes": 3,
+    "onyomi": [
+      "キン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-040",
+    "stageId": "",
+    "kanji": "僅",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "キン"
+    ],
+    "kunyomi": [
+      "わず"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-041",
+    "stageId": "",
+    "kanji": "錦",
+    "grade": 10,
+    "strokes": 16,
+    "onyomi": [
+      "キン"
+    ],
+    "kunyomi": [
+      "にしき"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-042",
+    "stageId": "",
+    "kanji": "惧",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "グ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-043",
+    "stageId": "",
+    "kanji": "串",
+    "grade": 10,
+    "strokes": 7,
+    "onyomi": [],
+    "kunyomi": [
+      "くし"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-044",
+    "stageId": "",
+    "kanji": "窟",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "クツ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-045",
+    "stageId": "",
+    "kanji": "詣",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "もう"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-046",
+    "stageId": "",
+    "kanji": "憬",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-047",
+    "stageId": "",
+    "kanji": "稽",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-048",
+    "stageId": "",
+    "kanji": "隙",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "ゲキ"
+    ],
+    "kunyomi": [
+      "すき"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-049",
+    "stageId": "",
+    "kanji": "桁",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [],
+    "kunyomi": [
+      "けた"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-050",
+    "stageId": "",
+    "kanji": "挙",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "こぶし"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-051",
+    "stageId": "",
+    "kanji": "鍵",
+    "grade": 10,
+    "strokes": 17,
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "かぎ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-052",
+    "stageId": "",
+    "kanji": "舷",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-053",
+    "stageId": "",
+    "kanji": "股",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "また"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-054",
+    "stageId": "",
+    "kanji": "虎",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "とら"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-055",
+    "stageId": "",
+    "kanji": "錮",
+    "grade": 10,
+    "strokes": 16,
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-056",
+    "stageId": "",
+    "kanji": "勾",
+    "grade": 10,
+    "strokes": 4,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-057",
+    "stageId": "",
+    "kanji": "梗",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-058",
+    "stageId": "",
+    "kanji": "喉",
+    "grade": 10,
+    "strokes": 12,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "のど"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-059",
+    "stageId": "",
+    "kanji": "乞",
+    "grade": 10,
+    "strokes": 3,
+    "onyomi": [],
+    "kunyomi": [
+      "こ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-060",
+    "stageId": "",
+    "kanji": "傲",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "ゴウ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-061",
+    "stageId": "",
+    "kanji": "駒",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [],
+    "kunyomi": [
+      "こま"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-062",
+    "stageId": "",
+    "kanji": "頃",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [],
+    "kunyomi": [
+      "ころ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-063",
+    "stageId": "",
+    "kanji": "痕",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "コン"
+    ],
+    "kunyomi": [
+      "あと"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-064",
+    "stageId": "",
+    "kanji": "沙",
+    "grade": 10,
+    "strokes": 7,
+    "onyomi": [
+      "サ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-065",
+    "stageId": "",
+    "kanji": "挫",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "ザ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-066",
+    "stageId": "",
+    "kanji": "采",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-067",
+    "stageId": "",
+    "kanji": "塞",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "サイ",
+      "ソク"
+    ],
+    "kunyomi": [
+      "ふさ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-068",
+    "stageId": "",
+    "kanji": "柵",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "サク"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-069",
+    "stageId": "",
+    "kanji": "刹",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [
+      "セツ",
+      "サツ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-070",
+    "stageId": "",
+    "kanji": "拶",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "サツ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-071",
+    "stageId": "",
+    "kanji": "斬",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "ザン"
+    ],
+    "kunyomi": [
+      "き"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-072",
+    "stageId": "",
+    "kanji": "恣",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-073",
+    "stageId": "",
+    "kanji": "摯",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-074",
+    "stageId": "",
+    "kanji": "餌",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "えさ",
+      "え"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-075",
+    "stageId": "",
+    "kanji": "𠮟",
+    "grade": 10,
+    "strokes": 5,
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "しか"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-076",
+    "stageId": "",
+    "kanji": "疾",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-077",
+    "stageId": "",
+    "kanji": "腫",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "は"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-078",
+    "stageId": "",
+    "kanji": "呪",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [
+      "ジュ"
+    ],
+    "kunyomi": [
+      "のろ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-079",
+    "stageId": "",
+    "kanji": "袖",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "そで"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-080",
+    "stageId": "",
+    "kanji": "羞",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-081",
+    "stageId": "",
+    "kanji": "蹴",
+    "grade": 10,
+    "strokes": 19,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "け"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-082",
+    "stageId": "",
+    "kanji": "憧",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "あこが"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-083",
+    "stageId": "",
+    "kanji": "拭",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "ショク"
+    ],
+    "kunyomi": [
+      "ふ",
+      "ぬぐ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-084",
+    "stageId": "",
+    "kanji": "尻",
+    "grade": 10,
+    "strokes": 5,
+    "onyomi": [],
+    "kunyomi": [
+      "しり"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-085",
+    "stageId": "",
+    "kanji": "芯",
+    "grade": 10,
+    "strokes": 7,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-086",
+    "stageId": "",
+    "kanji": "腎",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "ジン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-087",
+    "stageId": "",
+    "kanji": "須",
+    "grade": 10,
+    "strokes": 12,
+    "onyomi": [
+      "ス"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-088",
+    "stageId": "",
+    "kanji": "裾",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [],
+    "kunyomi": [
+      "すそ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-089",
+    "stageId": "",
+    "kanji": "凄",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-090",
+    "stageId": "",
+    "kanji": "醒",
+    "grade": 10,
+    "strokes": 16,
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-091",
+    "stageId": "",
+    "kanji": "脊",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-092",
+    "stageId": "",
+    "kanji": "戚",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-093",
+    "stageId": "",
+    "kanji": "煎",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "い"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-094",
+    "stageId": "",
+    "kanji": "羨",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "うらや"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-095",
+    "stageId": "",
+    "kanji": "腺",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-096",
+    "stageId": "",
+    "kanji": "詮",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-097",
+    "stageId": "",
+    "kanji": "箋",
+    "grade": 10,
+    "strokes": 14,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-098",
+    "stageId": "",
+    "kanji": "膳",
+    "grade": 10,
+    "strokes": 16,
+    "onyomi": [
+      "ゼン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-099",
+    "stageId": "",
+    "kanji": "狙",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [
+      "ソ"
+    ],
+    "kunyomi": [
+      "ねら"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-100",
+    "stageId": "",
+    "kanji": "遡",
+    "grade": 10,
+    "strokes": 14,
+    "onyomi": [
+      "ソ"
+    ],
+    "kunyomi": [
+      "さかのぼ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-101",
+    "stageId": "",
+    "kanji": "曾",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "ソウ",
+      "ゾ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-102",
+    "stageId": "",
+    "kanji": "爽",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "さわ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-103",
+    "stageId": "",
+    "kanji": "瘦",
+    "grade": 10,
+    "strokes": 12,
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "や"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-104",
+    "stageId": "",
+    "kanji": "踪",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-105",
+    "stageId": "",
+    "kanji": "捉",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "とら"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-106",
+    "stageId": "",
+    "kanji": "遜",
+    "grade": 10,
+    "strokes": 14,
+    "onyomi": [
+      "ソン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-107",
+    "stageId": "",
+    "kanji": "汰",
+    "grade": 10,
+    "strokes": 7,
+    "onyomi": [
+      "タ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-108",
+    "stageId": "",
+    "kanji": "唾",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "ダ"
+    ],
+    "kunyomi": [
+      "つば"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-109",
+    "stageId": "",
+    "kanji": "堆",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-110",
+    "stageId": "",
+    "kanji": "載",
+    "grade": 10,
+    "strokes": 17,
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-111",
+    "stageId": "",
+    "kanji": "誰",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [],
+    "kunyomi": [
+      "だれ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-112",
+    "stageId": "",
+    "kanji": "旦",
+    "grade": 10,
+    "strokes": 5,
+    "onyomi": [
+      "タン",
+      "ダン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-113",
+    "stageId": "",
+    "kanji": "綻",
+    "grade": 10,
+    "strokes": 14,
+    "onyomi": [
+      "タン"
+    ],
+    "kunyomi": [
+      "ほころ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-114",
+    "stageId": "",
+    "kanji": "緻",
+    "grade": 10,
+    "strokes": 16,
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-115",
+    "stageId": "",
+    "kanji": "酎",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-116",
+    "stageId": "",
+    "kanji": "貼",
+    "grade": 10,
+    "strokes": 12,
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "は"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-117",
+    "stageId": "",
+    "kanji": "嘲",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "あざけ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-118",
+    "stageId": "",
+    "kanji": "捗",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "チョク"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-119",
+    "stageId": "",
+    "kanji": "椎",
+    "grade": 10,
+    "strokes": 12,
+    "onyomi": [
+      "ツイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-120",
+    "stageId": "",
+    "kanji": "爪",
+    "grade": 10,
+    "strokes": 4,
+    "onyomi": [],
+    "kunyomi": [
+      "つめ",
+      "つま"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-121",
+    "stageId": "",
+    "kanji": "鶴",
+    "grade": 10,
+    "strokes": 21,
+    "onyomi": [],
+    "kunyomi": [
+      "つる"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-122",
+    "stageId": "",
+    "kanji": "諦",
+    "grade": 10,
+    "strokes": 16,
+    "onyomi": [
+      "テイ"
+    ],
+    "kunyomi": [
+      "あきら"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-123",
+    "stageId": "",
+    "kanji": "溺",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "デキ"
+    ],
+    "kunyomi": [
+      "おぼ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-124",
+    "stageId": "",
+    "kanji": "填",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんシュクごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-125",
+    "stageId": "",
+    "kanji": "妬",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "ねた"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-126",
+    "stageId": "",
+    "kanji": "賭",
+    "grade": 10,
+    "strokes": 16,
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "か"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-127",
+    "stageId": "",
+    "kanji": "藤",
+    "grade": 10,
+    "strokes": 18,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ふじ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-128",
+    "stageId": "",
+    "kanji": "瞳",
+    "grade": 10,
+    "strokes": 17,
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "ひとみ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-129",
+    "stageId": "",
+    "kanji": "頓",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "トン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-130",
+    "stageId": "",
+    "kanji": "貪",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "ドン"
+    ],
+    "kunyomi": [
+      "むさぼ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-131",
+    "stageId": "",
+    "kanji": "丼",
+    "grade": 10,
+    "strokes": 5,
+    "onyomi": [],
+    "kunyomi": [
+      "どんぶり",
+      "どん"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-132",
+    "stageId": "",
+    "kanji": "那",
+    "grade": 10,
+    "strokes": 7,
+    "onyomi": [
+      "ナ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-133",
+    "stageId": "",
+    "kanji": "謎",
+    "grade": 10,
+    "strokes": 17,
+    "onyomi": [],
+    "kunyomi": [
+      "なぞ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-134",
+    "stageId": "",
+    "kanji": "鍋",
+    "grade": 10,
+    "strokes": 17,
+    "onyomi": [],
+    "kunyomi": [
+      "なべ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-135",
+    "stageId": "",
+    "kanji": "匂",
+    "grade": 10,
+    "strokes": 4,
+    "onyomi": [],
+    "kunyomi": [
+      "にお"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-136",
+    "stageId": "",
+    "kanji": "虹",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [],
+    "kunyomi": [
+      "にじ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-137",
+    "stageId": "",
+    "kanji": "捻",
+    "grade": 10,
+    "strokes": 11,
+    "onyomi": [
+      "ネン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-138",
+    "stageId": "",
+    "kanji": "罵",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "バ"
+    ],
+    "kunyomi": [
+      "ののし"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-139",
+    "stageId": "",
+    "kanji": "剝",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "ハク"
+    ],
+    "kunyomi": [
+      "は"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-140",
+    "stageId": "",
+    "kanji": "箸",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [],
+    "kunyomi": [
+      "はし"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-141",
+    "stageId": "",
+    "kanji": "氾",
+    "grade": 10,
+    "strokes": 5,
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-142",
+    "stageId": "",
+    "kanji": "汎",
+    "grade": 10,
+    "strokes": 6,
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-143",
+    "stageId": "",
+    "kanji": "斑",
+    "grade": 10,
+    "strokes": 12,
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-144",
+    "stageId": "",
+    "kanji": "眉",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "ビ",
+      "ミ"
+    ],
+    "kunyomi": [
+      "まゆ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-145",
+    "stageId": "",
+    "kanji": "膝",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [],
+    "kunyomi": [
+      "ひざ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-146",
+    "stageId": "",
+    "kanji": "肘",
+    "grade": 10,
+    "strokes": 7,
+    "onyomi": [],
+    "kunyomi": [
+      "ひじ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-147",
+    "stageId": "",
+    "kanji": "訃",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-148",
+    "stageId": "",
+    "kanji": "蔽",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "ヘイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-149",
+    "stageId": "",
+    "kanji": "餅",
+    "grade": 10,
+    "strokes": 15,
+    "onyomi": [
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "もち"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-150",
+    "stageId": "",
+    "kanji": "璧",
+    "grade": 10,
+    "strokes": 18,
+    "onyomi": [
+      "ヘキ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-151",
+    "stageId": "",
+    "kanji": "蔑",
+    "grade": 10,
+    "strokes": 14,
+    "onyomi": [
+      "ベツ"
+    ],
+    "kunyomi": [
+      "さげす"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-152",
+    "stageId": "",
+    "kanji": "哺",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "ホ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-153",
+    "stageId": "",
+    "kanji": "蜂",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "はち"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-154",
+    "stageId": "",
+    "kanji": "貌",
+    "grade": 10,
+    "strokes": 14,
+    "onyomi": [
+      "ボウ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-155",
+    "stageId": "",
+    "kanji": "頬",
+    "grade": 10,
+    "strokes": 16,
+    "onyomi": [],
+    "kunyomi": [
+      "ほお"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-156",
+    "stageId": "",
+    "kanji": "睦",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "ボク"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-157",
+    "stageId": "",
+    "kanji": "勃",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "ボツ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-158",
+    "stageId": "",
+    "kanji": "昧",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-159",
+    "stageId": "",
+    "kanji": "蜜",
+    "grade": 10,
+    "strokes": 14,
+    "onyomi": [
+      "ミツ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-160",
+    "stageId": "",
+    "kanji": "冥",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-161",
+    "stageId": "",
+    "kanji": "麺",
+    "grade": 10,
+    "strokes": 16,
+    "onyomi": [
+      "メン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-162",
+    "stageId": "",
+    "kanji": "冶",
+    "grade": 10,
+    "strokes": 7,
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-163",
+    "stageId": "",
+    "kanji": "弥",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [],
+    "kunyomi": [
+      "や"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-164",
+    "stageId": "",
+    "kanji": "闇",
+    "grade": 10,
+    "strokes": 17,
+    "onyomi": [],
+    "kunyomi": [
+      "やみ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-165",
+    "stageId": "",
+    "kanji": "喩",
+    "grade": 10,
+    "strokes": 12,
+    "onyomi": [
+      "ユ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-166",
+    "stageId": "",
+    "kanji": "湧",
+    "grade": 10,
+    "strokes": 12,
+    "onyomi": [
+      "ユウ"
+    ],
+    "kunyomi": [
+      "わ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-167",
+    "stageId": "",
+    "kanji": "妖",
+    "grade": 10,
+    "strokes": 7,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "あや"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-168",
+    "stageId": "",
+    "kanji": "瘍",
+    "grade": 10,
+    "strokes": 14,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-169",
+    "stageId": "",
+    "kanji": "沃",
+    "grade": 10,
+    "strokes": 7,
+    "onyomi": [
+      "ヨク"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-170",
+    "stageId": "",
+    "kanji": "拉",
+    "grade": 10,
+    "strokes": 8,
+    "onyomi": [
+      "ラ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-171",
+    "stageId": "",
+    "kanji": "辣",
+    "grade": 10,
+    "strokes": 14,
+    "onyomi": [
+      "ラツ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-172",
+    "stageId": "",
+    "kanji": "藍",
+    "grade": 10,
+    "strokes": 18,
+    "onyomi": [
+      "ラン"
+    ],
+    "kunyomi": [
+      "あい"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-173",
+    "stageId": "",
+    "kanji": "璃",
+    "grade": 10,
+    "strokes": 14,
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-174",
+    "stageId": "",
+    "kanji": "慄",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "リツ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-175",
+    "stageId": "",
+    "kanji": "侶",
+    "grade": 10,
+    "strokes": 9,
+    "onyomi": [
+      "リョ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-176",
+    "stageId": "",
+    "kanji": "瞭",
+    "grade": 10,
+    "strokes": 17,
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-177",
+    "stageId": "",
+    "kanji": "瑠",
+    "grade": 10,
+    "strokes": 14,
+    "onyomi": [
+      "ル"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-178",
+    "stageId": "",
+    "kanji": "呂",
+    "grade": 10,
+    "strokes": 7,
+    "onyomi": [
+      "ロ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-179",
+    "stageId": "",
+    "kanji": "賂",
+    "grade": 10,
+    "strokes": 13,
+    "onyomi": [
+      "ロ"
+    ],
+    "kunyomi": [],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-180",
+    "stageId": "",
+    "kanji": "弄",
+    "grade": 10,
+    "strokes": 7,
+    "onyomi": [
+      "ロウ"
+    ],
+    "kunyomi": [
+      "もてあそ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-181",
+    "stageId": "",
+    "kanji": "籠",
+    "grade": 10,
+    "strokes": 22,
+    "onyomi": [
+      "ロウ"
+    ],
+    "kunyomi": [
+      "かご",
+      "こ"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-182",
+    "stageId": "",
+    "kanji": "麓",
+    "grade": 10,
+    "strokes": 19,
+    "onyomi": [
+      "ロク"
+    ],
+    "kunyomi": [
+      "ふもと"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  },
+  {
+    "id": "g10-183",
+    "stageId": "",
+    "kanji": "脇",
+    "grade": 10,
+    "strokes": 10,
+    "onyomi": [],
+    "kunyomi": [
+      "わき"
+    ],
+    "meaning": "かずのはじめ・ひとつ",
+    "exampleSentence": "りんごが 一（ひと）つ ある。"
+  }
+]

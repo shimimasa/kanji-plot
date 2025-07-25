@@ -1,0 +1,16 @@
+{
+  "name": "kanji-yomi-battle",
+  "version": "1.0.0",
+  "description": "漢字読みバトルRPG",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "npm run build && firebase deploy --only hosting",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.3.1"
+  }
+}

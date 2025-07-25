@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>漢字読みバトル RPG (Proto)</title>
+  <style>
+    body { margin: 0; background:#222; color:#fff; text-align:center; }
+    #kanjiInput {
+      position: absolute;
+      top: 350px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 280px;
+      padding: 6px 8px;
+      font-size: 20px;
+      text-align: center;
+      display: none;
+    }
+    /* ローディング用プログレスバーのスタイル */
+    .progress-bar {
+      height: 24px;
+      background: #1e90ff;
+    }
+  </style>
+  <link rel="manifest" href="/assets/manifest-CRjweche.json" />
+  <meta name="theme-color" content="#1e90ff" />
+  <script type="module" crossorigin src="/assets/index-VZuFtKFF.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-ZtPrrw6E.css">
+</head>
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js')
+        .then(reg => console.log('SW registered:', reg))
+        .catch(err => console.error('SW registration failed:', err));
+    });
+  }
+</script>
+<body>
+  <!-- ローディング画面用コンテナ -->
+  <div id="loader"></div>
+
+  <canvas id="gameCanvas"></canvas>
+  <div id="monsterContainer"></div>
+  <!-- バトル時だけ表示する入力欄 -->
+  <input type="text" id="kanjiInput" autocomplete="off" />
+
+  <!-- Firebase ― 初回だけ読めば十分なので defer 不要 -->
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-firestore-compat.js"></script>
+
+  <!-- 最後にアプリ本体を module で読み込む -->
+</body>
+</html>

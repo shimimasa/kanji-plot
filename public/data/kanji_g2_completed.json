@@ -1,0 +1,3393 @@
+[
+  {
+    "id": "g2-001",
+    "stageId": "tohoku_area1",
+    "kanji": "引",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "ひ"
+    ],
+    "meaning": "ひっぱる こと",
+    "examples": [
+      {
+        "word": "引",
+        "reading": "ひく",
+        "sentence": "ドアを 引（ひ）いて あける。"
+      }
+    ]
+  },
+  {
+    "id": "g2-002",
+    "stageId": "tohoku_area1",
+    "kanji": "羽",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "ウ"
+    ],
+    "kunyomi": [
+      "はね",
+      "は"
+    ],
+    "meaning": "とりの つばさ",
+    "examples": [
+      {
+        "word": "羽",
+        "reading": "はね",
+        "sentence": "大きな 羽（はね）が ふわり とぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-003",
+    "stageId": "tohoku_area1",
+    "kanji": "雲",
+    "grade": 2,
+    "strokes": 12,
+    "onyomi": [
+      "ウン"
+    ],
+    "kunyomi": [
+      "くも"
+    ],
+    "meaning": "そらに うかぶ わた",
+    "examples": [
+      {
+        "word": "雲",
+        "reading": "くも",
+        "sentence": "雲（くも）が そらに うかぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-004",
+    "stageId": "tohoku_area1",
+    "kanji": "園",
+    "grade": 2,
+    "strokes": 13,
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "その"
+    ],
+    "meaning": "はなや きが ある ばしょ",
+    "examples": [
+      {
+        "word": "園",
+        "reading": "その",
+        "sentence": "花の 園（その）で あそぶよ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-005",
+    "stageId": "tohoku_area1",
+    "kanji": "遠",
+    "grade": 2,
+    "strokes": 13,
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "とお"
+    ],
+    "meaning": "はなれて いる こと",
+    "examples": [
+      {
+        "word": "遠",
+        "reading": "とお",
+        "sentence": "遠（とお）い 山が みえるよ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-006",
+    "stageId": "tohoku_area1",
+    "kanji": "何",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "なに",
+      "なん"
+    ],
+    "meaning": "なにかを たずねる こと",
+    "examples": [
+      {
+        "word": "何",
+        "reading": "なに",
+        "sentence": "何（なに）かできることをかんがえる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-007",
+    "stageId": "tohoku_area1",
+    "kanji": "科",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [],
+    "meaning": "学校の ぶんや",
+    "examples": [
+      {
+        "word": "科",
+        "reading": "か",
+        "sentence": "好きな 科（か）を えらんでね。"
+      }
+    ]
+  },
+  {
+    "id": "g2-008",
+    "stageId": "tohoku_area1",
+    "kanji": "夏",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "なつ"
+    ],
+    "meaning": "あつい きせつ",
+    "examples": [
+      {
+        "word": "夏",
+        "reading": "なつ",
+        "sentence": "夏（なつ）に 山（やま）へ 行（い）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-009",
+    "stageId": "tohoku_area1",
+    "kanji": "家",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "いえ",
+      "や"
+    ],
+    "meaning": "すむ ところ",
+    "examples": [
+      {
+        "word": "家",
+        "reading": "いえ",
+        "sentence": "家（いえ）で ごはんを たべる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-010",
+    "stageId": "tohoku_area1",
+    "kanji": "歌",
+    "grade": 2,
+    "strokes": 14,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "うた"
+    ],
+    "meaning": "うたう こと",
+    "examples": [
+      {
+        "word": "歌",
+        "reading": "うた",
+        "sentence": "歌（うた）を うたって みよう。"
+      }
+    ]
+  },
+  {
+    "id": "g2-011",
+    "stageId": "tohoku_area1",
+    "kanji": "画",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "ガ",
+      "カク"
+    ],
+    "kunyomi": [],
+    "meaning": "えを かく こと",
+    "examples": [
+      {
+        "word": "画",
+        "reading": "が",
+        "sentence": "白い 紙（かみ）に 画（が）を かく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-012",
+    "stageId": "tohoku_area1",
+    "kanji": "回",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "まわ"
+    ],
+    "meaning": "まわる こと",
+    "examples": [
+      {
+        "word": "回",
+        "reading": "まわ",
+        "sentence": "おもちゃを 回（まわ）して あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-013",
+    "stageId": "tohoku_area1",
+    "kanji": "会",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "あ"
+    ],
+    "meaning": "あつまる こと",
+    "examples": [
+      {
+        "word": "会",
+        "reading": "あ",
+        "sentence": "みんなで 会（あ）って はなそう。"
+      }
+    ]
+  },
+  {
+    "id": "g2-014",
+    "stageId": "tohoku_area1",
+    "kanji": "海",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "うみ"
+    ],
+    "meaning": "ひろい みず",
+    "examples": [
+      {
+        "word": "海",
+        "reading": "うみ",
+        "sentence": "海（うみ）で さかなを さがす。"
+      }
+    ]
+  },
+  {
+    "id": "g2-015",
+    "stageId": "tohoku_area1",
+    "kanji": "絵",
+    "grade": 2,
+    "strokes": 12,
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "kunyomi": [],
+    "meaning": "えを かざる こと",
+    "examples": [
+      {
+        "word": "絵",
+        "reading": "え",
+        "sentence": "絵（え）に いろを ぬる"
+      }
+    ]
+  },
+  {
+    "id": "g2-016",
+    "stageId": "tohoku_area1",
+    "kanji": "外",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "ガイ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "そと",
+      "はず",
+      "ほか"
+    ],
+    "meaning": "ほかの ばしょ",
+    "examples": [
+      {
+        "word": "外",
+        "reading": "そと",
+        "sentence": "外（そと）で かけっこをする。"
+      }
+    ]
+  },
+  {
+    "id": "g2-017",
+    "stageId": "tohoku_area1",
+    "kanji": "角",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "カク"
+    ],
+    "kunyomi": [
+      "つの",
+      "かど"
+    ],
+    "meaning": "かど や つの",
+    "examples": [
+      {
+        "word": "角",
+        "reading": "つの",
+        "sentence": "牛（うし）の 角（つの）を さわる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-018",
+    "stageId": "tohoku_area1",
+    "kanji": "楽",
+    "grade": 2,
+    "strokes": 13,
+    "onyomi": [
+      "ガク",
+      "ラク"
+    ],
+    "kunyomi": [
+      "たの"
+    ],
+    "meaning": "たのしい きもち",
+    "examples": [
+      {
+        "word": "楽",
+        "reading": "たのしい",
+        "sentence": "友（とも）だちと 遊（あそ）ぶと 楽（たのしい）。"
+      }
+    ]
+  },
+  {
+    "id": "g2-019",
+    "stageId": "tohoku_area1",
+    "kanji": "活",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "カツ"
+    ],
+    "kunyomi": [
+      "い"
+    ],
+    "meaning": "いきる こと",
+    "examples": [
+      {
+        "word": "活",
+        "reading": "いきる",
+        "sentence": "さかなが 水（みず）で 活（いき）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-020",
+    "stageId": "tohoku_area1",
+    "kanji": "間",
+    "grade": 2,
+    "strokes": 12,
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "kunyomi": [
+      "あいだ",
+      "ま"
+    ],
+    "meaning": "ひと と ひとの あいだ",
+    "examples": [
+      {
+        "word": "間",
+        "reading": "あいだ",
+        "sentence": "家（いえ）の 間（あいだ）を 通（とお）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-021",
+    "stageId": "tohoku_area1",
+    "kanji": "丸",
+    "grade": 2,
+    "strokes": 3,
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "まる"
+    ],
+    "meaning": "まるい かたち",
+    "examples": [
+      {
+        "word": "丸",
+        "reading": "まる",
+        "sentence": "紙（かみ）に 丸（まる）を かく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-022",
+    "stageId": "tohoku_area1",
+    "kanji": "岩",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "いわ"
+    ],
+    "meaning": "おおきな いし",
+    "examples": [
+      {
+        "word": "岩",
+        "reading": "いわ",
+        "sentence": "大（おお）きな 岩（いわ）に のぼる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-023",
+    "stageId": "tohoku_area1",
+    "kanji": "顔",
+    "grade": 2,
+    "strokes": 18,
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "かお"
+    ],
+    "meaning": "目や 口が ある ところ",
+    "examples": [
+      {
+        "word": "顔",
+        "reading": "かお",
+        "sentence": "笑（わら）う 顔（かお）を みる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-024",
+    "stageId": "tohoku_area1",
+    "kanji": "汽",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [],
+    "meaning": "きしゃの き",
+    "examples": [
+      {
+        "word": "汽",
+        "reading": "き",
+        "sentence": "駅（えき）で 汽車（きしゃ）を まつ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-025",
+    "stageId": "tohoku_area1",
+    "kanji": "記",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "しる"
+    ],
+    "meaning": "ことを かく こと",
+    "examples": [
+      {
+        "word": "記",
+        "reading": "しる",
+        "sentence": "紙（かみ）に おもった ことを 記（しる）す。"
+      }
+    ]
+  },
+  {
+    "id": "g2-026",
+    "stageId": "tohoku_area1",
+    "kanji": "帰",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "かえ"
+    ],
+    "meaning": "もどってくること",
+    "examples": [
+      {
+        "word": "帰",
+        "reading": "かえ",
+        "sentence": "家（いえ）に 帰（かえ）ってあそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-027",
+    "stageId": "tohoku_area1",
+    "kanji": "弓",
+    "grade": 2,
+    "strokes": 3,
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "ゆみ"
+    ],
+    "meaning": "ゆみの こと",
+    "examples": [
+      {
+        "word": "弓",
+        "reading": "ゆみ",
+        "sentence": "みんなで 弓（ゆみ）を ひく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-028",
+    "stageId": "tohoku_area1",
+    "kanji": "牛",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "ギュウ"
+    ],
+    "kunyomi": [
+      "うし"
+    ],
+    "meaning": "うしの こと",
+    "examples": [
+      {
+        "word": "牛",
+        "reading": "うし",
+        "sentence": "牛（うし）が 草（くさ）を たべる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-029",
+    "stageId": "tohoku_area1",
+    "kanji": "魚",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "ギョ"
+    ],
+    "kunyomi": [
+      "さかな",
+      "うお"
+    ],
+    "meaning": "さかなの こと",
+    "examples": [
+      {
+        "word": "魚",
+        "reading": "さかな",
+        "sentence": "川（かわ）で 魚（さかな）を みつける。"
+      }
+    ]
+  },
+  {
+    "id": "g2-030",
+    "stageId": "tohoku_area1",
+    "kanji": "京",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kunyomi": [],
+    "meaning": "みやこ",
+    "examples": [
+      {
+        "word": "京",
+        "reading": "きょう",
+        "sentence": "京（きょう）は 大（おお）きな まち。"
+      }
+    ]
+  },
+  {
+    "id": "g2-031",
+    "stageId": "tohoku_area1",
+    "kanji": "強",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "つよ"
+    ],
+    "meaning": "つよい こと",
+    "examples": [
+      {
+        "word": "強",
+        "reading": "つよ",
+        "sentence": "強（つよ）い 風（かぜ）が 吹（ふ）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-032",
+    "stageId": "tohoku_area1",
+    "kanji": "教",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "おし",
+      "おそ"
+    ],
+    "meaning": "おしえる こと",
+    "examples": [
+      {
+        "word": "教",
+        "reading": "おし",
+        "sentence": "父（ちち）が 教（おし）えて くれる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-033",
+    "stageId": "tohoku_area1",
+    "kanji": "近",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "キン"
+    ],
+    "kunyomi": [
+      "ちか"
+    ],
+    "meaning": "ちかい こと",
+    "examples": [
+      {
+        "word": "近",
+        "reading": "ちか",
+        "sentence": "家（いえ）の 近（ちか）くで あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-034",
+    "stageId": "tohoku_area1",
+    "kanji": "兄",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kunyomi": [
+      "あに"
+    ],
+    "meaning": "あにの こと",
+    "examples": [
+      {
+        "word": "兄",
+        "reading": "あに",
+        "sentence": "兄（あに）と いっしょにゲームをする"
+      }
+    ]
+  },
+  {
+    "id": "g2-035",
+    "stageId": "tohoku_area1",
+    "kanji": "形",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "ケイ",
+      "ギョウ"
+    ],
+    "kunyomi": [
+      "かたち",
+      "かた"
+    ],
+    "meaning": "かたち",
+    "examples": [
+      {
+        "word": "形",
+        "reading": "かたち",
+        "sentence": "星（ほし）の 形（かたち）を 見（み）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-036",
+    "stageId": "tohoku_area1",
+    "kanji": "計",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "はか"
+    ],
+    "meaning": "はかる こと",
+    "examples": [
+      {
+        "word": "計",
+        "reading": "はか",
+        "sentence": "長（なが）さを 計（はか）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-037",
+    "stageId": "tohoku_area1",
+    "kanji": "元",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "ゲン",
+      "ガン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "meaning": "もとの こと",
+    "examples": [
+      {
+        "word": "元",
+        "reading": "もと",
+        "sentence": "元（もと）の 所（ところ）に もどる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-038",
+    "stageId": "tohoku_area1",
+    "kanji": "言",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "ゲン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "い",
+      "こと"
+    ],
+    "meaning": "いう こと",
+    "examples": [
+      {
+        "word": "言",
+        "reading": "いう",
+        "sentence": "何（なに）を 言（い）う？"
+      }
+    ]
+  },
+  {
+    "id": "g2-039",
+    "stageId": "tohoku_area1",
+    "kanji": "原",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [
+      "はら"
+    ],
+    "meaning": "ひろい ばしょ",
+    "examples": [
+      {
+        "word": "原",
+        "reading": "はら",
+        "sentence": "野（の）原（はら）で あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-040",
+    "stageId": "tohoku_area1",
+    "kanji": "戸",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "こ"
+    ],
+    "meaning": "とびら",
+    "examples": [
+      {
+        "word": "戸",
+        "reading": "と",
+        "sentence": "戸（と）を 開（あ）けて みる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-041",
+    "stageId": "tohoku_area1",
+    "kanji": "古",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "ふる"
+    ],
+    "meaning": "ふるい もの",
+    "examples": [
+      {
+        "word": "古",
+        "reading": "ふる",
+        "sentence": "古（ふる）い 本（ほん）を よむ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-042",
+    "stageId": "tohoku_area1",
+    "kanji": "午",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "うま",
+      "ひる"
+    ],
+    "meaning": "ひるの まえ",
+    "examples": [
+      {
+        "word": "午",
+        "reading": "ひる",
+        "sentence": "午（ひる）まえに あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-043",
+    "stageId": "tohoku_area1",
+    "kanji": "後",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "ゴ",
+      "コウ"
+    ],
+    "kunyomi": [
+      "うしろ",
+      "あと",
+      "のち",
+      "おく"
+    ],
+    "meaning": "あとの じかん",
+    "examples": [
+      {
+        "word": "後",
+        "reading": "あと",
+        "sentence": "後（あと）の じかんは おやつだ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-044",
+    "stageId": "tohoku_area1",
+    "kanji": "語",
+    "grade": 2,
+    "strokes": 14,
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "かた"
+    ],
+    "meaning": "ことば",
+    "examples": [
+      {
+        "word": "語",
+        "reading": "かた",
+        "sentence": "ことばを 語（かた）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-045",
+    "stageId": "tohoku_area1",
+    "kanji": "工",
+    "grade": 2,
+    "strokes": 3,
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "kunyomi": [],
+    "meaning": "ものを つくる こと",
+    "examples": [
+      {
+        "word": "工",
+        "reading": "こう",
+        "sentence": "工作（こうさく）を する。"
+      }
+    ]
+  },
+  {
+    "id": "g2-046",
+    "stageId": "tohoku_area1",
+    "kanji": "公",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "おおやけ"
+    ],
+    "meaning": "おおやけの こと",
+    "examples": [
+      {
+        "word": "公",
+        "reading": "おおやけ",
+        "sentence": "学校（がっこう）の 公（おおやけ）を 大事（だいじ）にしよう。"
+      }
+    ]
+  },
+  {
+    "id": "g2-047",
+    "stageId": "tohoku_area1",
+    "kanji": "広",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひろ"
+    ],
+    "meaning": "ひろい こと",
+    "examples": [
+      {
+        "word": "広",
+        "reading": "ひろ",
+        "sentence": "広（ひろ）い 部屋（へや）で あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-048",
+    "stageId": "tohoku_area1",
+    "kanji": "交",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "まじ",
+      "ま"
+    ],
+    "meaning": "まざる こと",
+    "examples": [
+      {
+        "word": "交",
+        "reading": "まじ",
+        "sentence": "色（いろ）が 交（まじ）って 虹（にじ）が できる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-049",
+    "stageId": "tohoku_area1",
+    "kanji": "光",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひかり",
+      "ひか"
+    ],
+    "meaning": "ひかり",
+    "examples": [
+      {
+        "word": "光",
+        "reading": "ひかり",
+        "sentence": "光（ひかり）が 水（みず）に あたる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-050",
+    "stageId": "tohoku_area1",
+    "kanji": "考",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "かんが"
+    ],
+    "meaning": "かんがえる こと",
+    "examples": [
+      {
+        "word": "考",
+        "reading": "かんがえ",
+        "sentence": "考（かんがえ）を 話（はな）して みる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-051",
+    "stageId": "tohoku_area1",
+    "kanji": "行",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "コウ",
+      "ギョウ"
+    ],
+    "kunyomi": [
+      "い",
+      "ゆ",
+      "おこな"
+    ],
+    "meaning": "まちや がっこうへ いく こと",
+    "examples": [
+      {
+        "word": "行",
+        "reading": "いく",
+        "sentence": "学校（がっこう）へ 行（い）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-052",
+    "stageId": "tohoku_area1",
+    "kanji": "高",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "たか"
+    ],
+    "meaning": "たかい こと",
+    "examples": [
+      {
+        "word": "高",
+        "reading": "たか",
+        "sentence": "山（やま）が 高（たか）い。"
+      }
+    ]
+  },
+  {
+    "id": "g2-053",
+    "stageId": "tohoku_area1",
+    "kanji": "黄",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "オウ",
+      "コウ"
+    ],
+    "kunyomi": [
+      "き",
+      "こ"
+    ],
+    "meaning": "きいろい いろ",
+    "examples": [
+      {
+        "word": "黄",
+        "reading": "きいろい",
+        "sentence": "庭（にわ）の 花（はな）が きいろい。"
+      }
+    ]
+  },
+  {
+    "id": "g2-054",
+    "stageId": "tohoku_area1",
+    "kanji": "合",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "ゴウ",
+      "ガッ",
+      "カッ"
+    ],
+    "kunyomi": [
+      "あ"
+    ],
+    "meaning": "いっしょに なる こと",
+    "examples": [
+      {
+        "word": "合",
+        "reading": "あ",
+        "sentence": "二人（ふたり）が 合（あ）う。"
+      }
+    ]
+  },
+  {
+    "id": "g2-055",
+    "stageId": "tohoku_area1",
+    "kanji": "谷",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "こく"
+    ],
+    "kunyomi": [
+      "たに"
+    ],
+    "meaning": "やまの あな",
+    "examples": [
+      {
+        "word": "谷",
+        "reading": "たに",
+        "sentence": "谷（たに）に 小川（おがわ）が ある。"
+      }
+    ]
+  },
+  {
+    "id": "g2-056",
+    "stageId": "tohoku_area1",
+    "kanji": "国",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くに"
+    ],
+    "meaning": "くに",
+    "examples": [
+      {
+        "word": "国",
+        "reading": "くに",
+        "sentence": "国（くに）を きれいに しよう。"
+      }
+    ]
+  },
+  {
+    "id": "g2-057",
+    "stageId": "tohoku_area1",
+    "kanji": "黒",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くろ"
+    ],
+    "meaning": "くろい いろ",
+    "examples": [
+      {
+        "word": "黒",
+        "reading": "くろ",
+        "sentence": "黒（くろ）い しまうま が いる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-058",
+    "stageId": "tohoku_area1",
+    "kanji": "今",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "コン"
+    ],
+    "kunyomi": [
+      "いま"
+    ],
+    "meaning": "いまの とき",
+    "examples": [
+      {
+        "word": "今",
+        "reading": "いま",
+        "sentence": "今（いま）は あさの じかん。"
+      }
+    ]
+  },
+  {
+    "id": "g2-059",
+    "stageId": "tohoku_area1",
+    "kanji": "才",
+    "grade": 2,
+    "strokes": 3,
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [],
+    "meaning": "とし",
+    "examples": [
+      {
+        "word": "才",
+        "reading": "さい",
+        "sentence": "今年（ことし）は 二（に）才（さい）です。"
+      }
+    ]
+  },
+  {
+    "id": "g2-060",
+    "stageId": "tohoku_area1",
+    "kanji": "細",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [
+      "ほそ",
+      "こま"
+    ],
+    "meaning": "ほそい こと",
+    "examples": [
+      {
+        "word": "細",
+        "reading": "ほそ",
+        "sentence": "ほそい ロープを わたる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-061",
+    "stageId": "tohoku_area1",
+    "kanji": "作",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "サク",
+      "サ"
+    ],
+    "kunyomi": [
+      "つく"
+    ],
+    "meaning": "つくる こと",
+    "examples": [
+      {
+        "word": "作",
+        "reading": "つく",
+        "sentence": "紙（かみ）で 花（はな）を 作（つく）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-062",
+    "stageId": "tohoku_area1",
+    "kanji": "算",
+    "grade": 2,
+    "strokes": 14,
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [],
+    "meaning": "かずを かぞえる こと",
+    "examples": [
+      {
+        "word": "算",
+        "reading": "さん",
+        "sentence": "さんすうの しゅくだいを 算（さん）する。"
+      }
+    ]
+  },
+  {
+    "id": "g2-063",
+    "stageId": "tohoku_area1",
+    "kanji": "止",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "と"
+    ],
+    "meaning": "とまる こと",
+    "examples": [
+      {
+        "word": "止",
+        "reading": "と",
+        "sentence": "車（くるま）が 止（と）まる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-064",
+    "stageId": "tohoku_area1",
+    "kanji": "市",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "いち"
+    ],
+    "meaning": "まち",
+    "examples": [
+      {
+        "word": "市",
+        "reading": "いち",
+        "sentence": "市（いち）で おみせを みる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-065",
+    "stageId": "tohoku_area1",
+    "kanji": "矢",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "や"
+    ],
+    "meaning": "とがった もの",
+    "examples": [
+      {
+        "word": "矢",
+        "reading": "や",
+        "sentence": "弓（ゆみ）で 矢（や）を とばす。"
+      }
+    ]
+  },
+  {
+    "id": "g2-066",
+    "stageId": "tohoku_area1",
+    "kanji": "姉",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "あね"
+    ],
+    "meaning": "おとうとより としうえの きょうだい",
+    "examples": [
+      {
+        "word": "姉",
+        "reading": "あね",
+        "sentence": "姉（あね）が きょうだいと あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-067",
+    "stageId": "tohoku_area1",
+    "kanji": "思",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "おも"
+    ],
+    "meaning": "かんがえる こと",
+    "examples": [
+      {
+        "word": "思",
+        "reading": "おも",
+        "sentence": "本（ほん）を 読（よ）んで 思（おも）う。"
+      }
+    ]
+  },
+  {
+    "id": "g2-068",
+    "stageId": "tohoku_area1",
+    "kanji": "紙",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "かみ"
+    ],
+    "meaning": "うすい もの",
+    "examples": [
+      {
+        "word": "紙",
+        "reading": "かみ",
+        "sentence": "紙（かみ）に おえかき する。"
+      }
+    ]
+  },
+  {
+    "id": "g2-069",
+    "stageId": "tohoku_area1",
+    "kanji": "寺",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "てら"
+    ],
+    "meaning": "おてら",
+    "examples": [
+      {
+        "word": "寺",
+        "reading": "てら",
+        "sentence": "寺（てら）で おまいり する。"
+      }
+    ]
+  },
+  {
+    "id": "g2-070",
+    "stageId": "tohoku_area1",
+    "kanji": "自",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "kunyomi": [
+      "みずか"
+    ],
+    "meaning": "じぶん",
+    "examples": [
+      {
+        "word": "自",
+        "reading": "じ",
+        "sentence": "自（じ）ぶんで 書（か）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-071",
+    "stageId": "tohoku_area1",
+    "kanji": "時",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "とき"
+    ],
+    "meaning": "とき",
+    "examples": [
+      {
+        "word": "時",
+        "reading": "とき",
+        "sentence": "家（いえ）に 帰（かえ）る 時（とき）です。"
+      }
+    ]
+  },
+  {
+    "id": "g2-072",
+    "stageId": "tohoku_area1",
+    "kanji": "室",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "むろ"
+    ],
+    "meaning": "へや",
+    "examples": [
+      {
+        "word": "室",
+        "reading": "むろ",
+        "sentence": "大きな 室（むろ）に 入（はい）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-073",
+    "stageId": "tohoku_area1",
+    "kanji": "社",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "やしろ"
+    ],
+    "meaning": "やしろ",
+    "examples": [
+      {
+        "word": "社",
+        "reading": "やしろ",
+        "sentence": "小さな 社（やしろ）に おまいり する。"
+      }
+    ]
+  },
+  {
+    "id": "g2-074",
+    "stageId": "tohoku_area1",
+    "kanji": "弱",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "ジャク"
+    ],
+    "kunyomi": [
+      "よわ"
+    ],
+    "meaning": "よわい こと",
+    "examples": [
+      {
+        "word": "弱",
+        "reading": "よわ",
+        "sentence": "弱（よわ）い 風（かぜ）が 吹（ふ）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-075",
+    "stageId": "tohoku_area1",
+    "kanji": "首",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "くび"
+    ],
+    "meaning": "くび",
+    "examples": [
+      {
+        "word": "首",
+        "reading": "くび",
+        "sentence": "首（くび）を かしげる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-076",
+    "stageId": "tohoku_area1",
+    "kanji": "秋",
+    "grade": 2,
+    "strokes": 1,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あき"
+    ],
+    "meaning": "あきの きせつ",
+    "examples": [
+      {
+        "word": "秋",
+        "reading": "あき",
+        "sentence": "秋（あき）に つきが きれい。"
+      }
+    ]
+  },
+  {
+    "id": "g2-077",
+    "stageId": "tohoku_area1",
+    "kanji": "週",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [],
+    "meaning": "いっしゅうかんの あいだ",
+    "examples": [
+      {
+        "word": "週",
+        "reading": "しゅう",
+        "sentence": "今週（こんしゅう） 学校（がっこう）へ 行（い）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-078",
+    "stageId": "tohoku_area1",
+    "kanji": "春",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "シュン"
+    ],
+    "kunyomi": [
+      "はる"
+    ],
+    "meaning": "あたたかい きせつ",
+    "examples": [
+      {
+        "word": "春",
+        "reading": "はる",
+        "sentence": "春（はる）に 花（はな）が さく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-079",
+    "stageId": "tohoku_area1",
+    "kanji": "書",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "か"
+    ],
+    "meaning": "かく こと",
+    "examples": [
+      {
+        "word": "書",
+        "reading": "か",
+        "sentence": "本（ほん）に 名前（なまえ）を 書（か）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-080",
+    "stageId": "tohoku_area1",
+    "kanji": "少",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "すく",
+      "すこ"
+    ],
+    "meaning": "すくない こと",
+    "examples": [
+      {
+        "word": "少",
+        "reading": "すく",
+        "sentence": "少（すく）ない りんごを もらう。"
+      }
+    ]
+  },
+  {
+    "id": "g2-081",
+    "stageId": "tohoku_area1",
+    "kanji": "場",
+    "grade": 2,
+    "strokes": 12,
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "ば"
+    ],
+    "meaning": "ひろい ばしょ",
+    "examples": [
+      {
+        "word": "場",
+        "reading": "ば",
+        "sentence": "広い 場（ば）で あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-082",
+    "stageId": "tohoku_area1",
+    "kanji": "色",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "ショク",
+      "シキ"
+    ],
+    "kunyomi": [
+      "いろ"
+    ],
+    "meaning": "いろ",
+    "examples": [
+      {
+        "word": "色",
+        "reading": "いろ",
+        "sentence": "赤（あか）い 色（いろ）の えのぐ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-083",
+    "stageId": "tohoku_area1",
+    "kanji": "食",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "ショク"
+    ],
+    "kunyomi": [
+      "た",
+      "く"
+    ],
+    "meaning": "たべる こと",
+    "examples": [
+      {
+        "word": "食",
+        "reading": "たべ",
+        "sentence": "ごはんを 食（たべ）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-084",
+    "stageId": "tohoku_area1",
+    "kanji": "心",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "こころ"
+    ],
+    "meaning": "こころ",
+    "examples": [
+      {
+        "word": "心",
+        "reading": "こころ",
+        "sentence": "心（こころ）が あたたかく なる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-085",
+    "stageId": "tohoku_area1",
+    "kanji": "新",
+    "grade": 2,
+    "strokes": 13,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "あたら",
+      "あら",
+      "にい"
+    ],
+    "meaning": "あたらしい こと",
+    "examples": [
+      {
+        "word": "新",
+        "reading": "あたらしい",
+        "sentence": "新（あたらしい）本（ほん）を よむ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-086",
+    "stageId": "tohoku_area1",
+    "kanji": "親",
+    "grade": 2,
+    "strokes": 16,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "おや",
+      "した"
+    ],
+    "meaning": "おやの こと",
+    "examples": [
+      {
+        "word": "親",
+        "reading": "おや",
+        "sentence": "親（おや）と 手（て）を つなぐ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-087",
+    "stageId": "tohoku_area1",
+    "kanji": "図",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "kunyomi": [
+      "はか"
+    ],
+    "meaning": "えを かく こと",
+    "examples": [
+      {
+        "word": "図",
+        "reading": "ず",
+        "sentence": "紙（かみ）に 図（ず）を かく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-088",
+    "stageId": "tohoku_area1",
+    "kanji": "数",
+    "grade": 2,
+    "strokes": 13,
+    "onyomi": [
+      "スウ"
+    ],
+    "kunyomi": [
+      "かず",
+      "かぞ"
+    ],
+    "meaning": "かずを かぞえる こと",
+    "examples": [
+      {
+        "word": "数",
+        "reading": "すう",
+        "sentence": "数（すう）を かぞえて みる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-089",
+    "stageId": "tohoku_area1",
+    "kanji": "西",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "kunyomi": [
+      "にし"
+    ],
+    "meaning": "にしの ほう",
+    "examples": [
+      {
+        "word": "西",
+        "reading": "にし",
+        "sentence": "西（にし）に かぜが ふく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-090",
+    "stageId": "tohoku_area1",
+    "kanji": "声",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [
+      "こえ"
+    ],
+    "meaning": "こえの こと",
+    "examples": [
+      {
+        "word": "声",
+        "reading": "こえ",
+        "sentence": "声（こえ）を だして うたう。"
+      }
+    ]
+  },
+  {
+    "id": "g2-091",
+    "stageId": "tohoku_area1",
+    "kanji": "星",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [
+      "ほし"
+    ],
+    "meaning": "よぞらに かがやく もの",
+    "examples": [
+      {
+        "word": "星",
+        "reading": "ほし",
+        "sentence": "夜空（よぞら）の 星（ほし）が きれい。"
+      }
+    ]
+  },
+  {
+    "id": "g2-092",
+    "stageId": "tohoku_area1",
+    "kanji": "晴",
+    "grade": 2,
+    "strokes": 12,
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [
+      "は"
+    ],
+    "meaning": "そらが はれる こと",
+    "examples": [
+      {
+        "word": "晴",
+        "reading": "はれ",
+        "sentence": "晴（はれ）の 空（そら）が 青（あお）い。"
+      }
+    ]
+  },
+  {
+    "id": "g2-093",
+    "stageId": "tohoku_area1",
+    "kanji": "切",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "セツ"
+    ],
+    "kunyomi": [
+      "き"
+    ],
+    "meaning": "きる こと",
+    "examples": [
+      {
+        "word": "切",
+        "reading": "き",
+        "sentence": "紙（かみ）を 切（き）って つくる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-094",
+    "stageId": "tohoku_area1",
+    "kanji": "雪",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "セツ"
+    ],
+    "kunyomi": [
+      "ゆき"
+    ],
+    "meaning": "しろい つぶ",
+    "examples": [
+      {
+        "word": "雪",
+        "reading": "ゆき",
+        "sentence": "雪（ゆき）が しんしんと 降（ふ）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-095",
+    "stageId": "tohoku_area1",
+    "kanji": "船",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "ふね",
+      "ふな"
+    ],
+    "meaning": "うみを はしる もの",
+    "examples": [
+      {
+        "word": "船",
+        "reading": "ふね",
+        "sentence": "船（ふね）で 遠足（えんそく）へ 行（い）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-096",
+    "stageId": "tohoku_area1",
+    "kanji": "線",
+    "grade": 2,
+    "strokes": 15,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [],
+    "meaning": "うすい ひも",
+    "examples": [
+      {
+        "word": "線",
+        "reading": "せん",
+        "sentence": "白い 線（せん）を ひく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-097",
+    "stageId": "tohoku_area1",
+    "kanji": "前",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "ゼン"
+    ],
+    "kunyomi": [
+      "まえ"
+    ],
+    "meaning": "さき",
+    "examples": [
+      {
+        "word": "前",
+        "reading": "まえ",
+        "sentence": "前（まえ）に ならんで まつ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-098",
+    "stageId": "tohoku_area1",
+    "kanji": "組",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "ソ"
+    ],
+    "kunyomi": [
+      "くみ",
+      "く"
+    ],
+    "meaning": "くむ こと",
+    "examples": [
+      {
+        "word": "組",
+        "reading": "くみ",
+        "sentence": "机を 組（くみ）たてる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-099",
+    "stageId": "tohoku_area1",
+    "kanji": "走",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はし"
+    ],
+    "meaning": "はしる こと",
+    "examples": [
+      {
+        "word": "走",
+        "reading": "はし",
+        "sentence": "公園で 走（はし）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-100",
+    "stageId": "tohoku_area1",
+    "kanji": "多",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "タ"
+    ],
+    "kunyomi": [
+      "おお"
+    ],
+    "meaning": "たくさん",
+    "examples": [
+      {
+        "word": "多",
+        "reading": "た",
+        "sentence": "多（た）くさん りんごを もらう。"
+      }
+    ]
+  },
+  {
+    "id": "g2-101",
+    "stageId": "tohoku_area1",
+    "kanji": "太",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "タイ",
+      "タ"
+    ],
+    "kunyomi": [
+      "ふと"
+    ],
+    "meaning": "ふとい こと",
+    "examples": [
+      {
+        "word": "太",
+        "reading": "ふと",
+        "sentence": "太（ふと）い ふとんで ねむる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-102",
+    "stageId": "tohoku_area1",
+    "kanji": "体",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "からだ"
+    ],
+    "meaning": "からだ",
+    "examples": [
+      {
+        "word": "体",
+        "reading": "からだ",
+        "sentence": "体（からだ）を うごかして あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-103",
+    "stageId": "tohoku_area1",
+    "kanji": "台",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [],
+    "meaning": "ものを おく ところ",
+    "examples": [
+      {
+        "word": "台",
+        "reading": "だい",
+        "sentence": "花（はな）を いける 台（だい）に ならべる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-104",
+    "stageId": "tohoku_area1",
+    "kanji": "地",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "チ",
+      "ジ"
+    ],
+    "kunyomi": [],
+    "meaning": "じめん",
+    "examples": [
+      {
+        "word": "地",
+        "reading": "じめん",
+        "sentence": "地（じめん）を じぶんの 足（あし）で ふむ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-105",
+    "stageId": "tohoku_area1",
+    "kanji": "池",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "いけ"
+    ],
+    "meaning": "いけ",
+    "examples": [
+      {
+        "word": "池",
+        "reading": "いけ",
+        "sentence": "池（いけ）で かえるを みつける。"
+      }
+    ]
+  },
+  {
+    "id": "g2-106",
+    "stageId": "tohoku_area1",
+    "kanji": "知",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "し"
+    ],
+    "meaning": "しる こと",
+    "examples": [
+      {
+        "word": "知",
+        "reading": "し",
+        "sentence": "知（し）らない ことを しる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-107",
+    "stageId": "tohoku_area1",
+    "kanji": "茶",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "チャ",
+      "サ"
+    ],
+    "kunyomi": [],
+    "meaning": "おちゃの こと",
+    "examples": [
+      {
+        "word": "茶",
+        "reading": "ちゃ",
+        "sentence": "お茶（おちゃ）を いれる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-108",
+    "stageId": "tohoku_area1",
+    "kanji": "昼",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "ひる"
+    ],
+    "meaning": "ひるの こと",
+    "examples": [
+      {
+        "word": "昼",
+        "reading": "ひる",
+        "sentence": "昼（ひる）に ごはんを たべる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-109",
+    "stageId": "tohoku_area1",
+    "kanji": "長",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "なが"
+    ],
+    "meaning": "ながい こと",
+    "examples": [
+      {
+        "word": "長",
+        "reading": "なが",
+        "sentence": "長（なが）い えんぴつを もつ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-110",
+    "stageId": "tohoku_area1",
+    "kanji": "鳥",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "とり"
+    ],
+    "meaning": "とりの こと",
+    "examples": [
+      {
+        "word": "鳥",
+        "reading": "とり",
+        "sentence": "鳥（とり）が そらを とぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-111",
+    "stageId": "tohoku_area1",
+    "kanji": "朝",
+    "grade": 2,
+    "strokes": 12,
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "あさ"
+    ],
+    "meaning": "あさの とき",
+    "examples": [
+      {
+        "word": "朝",
+        "reading": "あさ",
+        "sentence": "朝（あさ）に ごはんを たべる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-112",
+    "stageId": "tohoku_area1",
+    "kanji": "直",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "チョク",
+      "ジキ"
+    ],
+    "kunyomi": [
+      "なお",
+      "ただ"
+    ],
+    "meaning": "まっすぐ な こと",
+    "examples": [
+      {
+        "word": "直",
+        "reading": "なお",
+        "sentence": "時計（とけい）を 直（なお）す。"
+      }
+    ]
+  },
+  {
+    "id": "g2-113",
+    "stageId": "tohoku_area1",
+    "kanji": "通",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "ツウ"
+    ],
+    "kunyomi": [
+      "とお",
+      "かよ"
+    ],
+    "meaning": "とおる こと",
+    "examples": [
+      {
+        "word": "通",
+        "reading": "とお",
+        "sentence": "道（みち）を 通（とお）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-114",
+    "stageId": "tohoku_area1",
+    "kanji": "弟",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "ダイ",
+      "テイ"
+    ],
+    "kunyomi": [
+      "おとうと"
+    ],
+    "meaning": "おとうと",
+    "examples": [
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "sentence": "弟（おとうと）が 走（はし）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-115",
+    "stageId": "tohoku_area1",
+    "kanji": "店",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "みせ"
+    ],
+    "meaning": "みせ",
+    "examples": [
+      {
+        "word": "店",
+        "reading": "みせ",
+        "sentence": "店（みせ）で えんぴつを かう。"
+      }
+    ]
+  },
+  {
+    "id": "g2-116",
+    "stageId": "tohoku_area1",
+    "kanji": "点",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [],
+    "meaning": "しるしや ばってんの しるし",
+    "examples": [
+      {
+        "word": "点",
+        "reading": "てん",
+        "sentence": "紙（かみ）に 点（てん）を つける。"
+      }
+    ]
+  },
+  {
+    "id": "g2-117",
+    "stageId": "tohoku_area1",
+    "kanji": "電",
+    "grade": 2,
+    "strokes": 13,
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [],
+    "meaning": "かみなりや でんき",
+    "examples": [
+      {
+        "word": "電",
+        "reading": "でん",
+        "sentence": "電（でん）を つけて みる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-118",
+    "stageId": "tohoku_area1",
+    "kanji": "刀",
+    "grade": 2,
+    "strokes": 2,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "かたな"
+    ],
+    "meaning": "かたなの こと",
+    "examples": [
+      {
+        "word": "刀",
+        "reading": "かたな",
+        "sentence": "おもちゃの 刀（かたな）で あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-119",
+    "stageId": "tohoku_area1",
+    "kanji": "冬",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ふゆ"
+    ],
+    "meaning": "さむい きせつ",
+    "examples": [
+      {
+        "word": "冬",
+        "reading": "ふゆ",
+        "sentence": "冬（ふゆ）に こたつで ねむる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-120",
+    "stageId": "tohoku_area1",
+    "kanji": "当",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "あ"
+    ],
+    "meaning": "あたる こと",
+    "examples": [
+      {
+        "word": "当",
+        "reading": "あ",
+        "sentence": "ボールが 当（あ）たる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-121",
+    "stageId": "tohoku_area1",
+    "kanji": "東",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ひがし"
+    ],
+    "meaning": "ひがしの ほう",
+    "examples": [
+      {
+        "word": "東",
+        "reading": "ひがし",
+        "sentence": "東（ひがし）から 日（ひ）が のぼる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-122",
+    "stageId": "tohoku_area1",
+    "kanji": "答",
+    "grade": 2,
+    "strokes": 12,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "こた"
+    ],
+    "meaning": "こたえる こと",
+    "examples": [
+      {
+        "word": "答",
+        "reading": "こた",
+        "sentence": "質問（しつもん）に 答（こた）える。"
+      }
+    ]
+  },
+  {
+    "id": "g2-123",
+    "stageId": "tohoku_area1",
+    "kanji": "頭",
+    "grade": 2,
+    "strokes": 16,
+    "onyomi": [
+      "トウ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "あたま",
+      "かしら"
+    ],
+    "meaning": "あたまの こと",
+    "examples": [
+      {
+        "word": "頭",
+        "reading": "あたま",
+        "sentence": "頭（あたま）を かく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-124",
+    "stageId": "tohoku_area1",
+    "kanji": "同",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "おな"
+    ],
+    "meaning": "おなじ こと",
+    "examples": [
+      {
+        "word": "同",
+        "reading": "おな",
+        "sentence": "同（おな）じ 本（ほん）を よむ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-125",
+    "stageId": "tohoku_area1",
+    "kanji": "道",
+    "grade": 2,
+    "strokes": 12,
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "みち"
+    ],
+    "meaning": "みち",
+    "examples": [
+      {
+        "word": "道",
+        "reading": "みち",
+        "sentence": "道（みち）を あるく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-126",
+    "stageId": "tohoku_area1",
+    "kanji": "読",
+    "grade": 2,
+    "strokes": 14,
+    "onyomi": [
+      "ドク",
+      "トク",
+      "トウ"
+    ],
+    "kunyomi": [
+      "よ"
+    ],
+    "meaning": "ほんを よむ こと",
+    "examples": [
+      {
+        "word": "読",
+        "reading": "よ",
+        "sentence": "本（ほん）を 読（よ）む。"
+      }
+    ]
+  },
+  {
+    "id": "g2-127",
+    "stageId": "tohoku_area1",
+    "kanji": "内",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "ナイ"
+    ],
+    "kunyomi": [
+      "うち"
+    ],
+    "meaning": "なかの こと",
+    "examples": [
+      {
+        "word": "内",
+        "reading": "うち",
+        "sentence": "家（いえ）の 内（うち）で あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-128",
+    "stageId": "tohoku_area1",
+    "kanji": "南",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "ナン"
+    ],
+    "kunyomi": [
+      "みなみ"
+    ],
+    "meaning": "みなみの ほう",
+    "examples": [
+      {
+        "word": "南",
+        "reading": "みなみ",
+        "sentence": "南（みなみ）に かぜが ふく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-129",
+    "stageId": "tohoku_area1",
+    "kanji": "肉",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "ニク"
+    ],
+    "kunyomi": [],
+    "meaning": "からだの ちょうし",
+    "examples": [
+      {
+        "word": "肉",
+        "reading": "にく",
+        "sentence": "肉（にく）を 食（た）べる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-130",
+    "stageId": "tohoku_area1",
+    "kanji": "馬",
+    "grade": 2,
+    "strokes": 10,
+    "onyomi": [
+      "バ"
+    ],
+    "kunyomi": [
+      "うま",
+      "ま"
+    ],
+    "meaning": "うまの どうぶつ",
+    "examples": [
+      {
+        "word": "馬",
+        "reading": "うま",
+        "sentence": "馬（うま）が 走（はし）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-131",
+    "stageId": "tohoku_area1",
+    "kanji": "売",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "う"
+    ],
+    "meaning": "うる こと",
+    "examples": [
+      {
+        "word": "売",
+        "reading": "うる",
+        "sentence": "りんごを 売（うる）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-132",
+    "stageId": "tohoku_area1",
+    "kanji": "買",
+    "grade": 2,
+    "strokes": 12,
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "か"
+    ],
+    "meaning": "かう こと",
+    "examples": [
+      {
+        "word": "買",
+        "reading": "かう",
+        "sentence": "店（みせ）で りんごを 買（かう）。"
+      }
+    ]
+  },
+  {
+    "id": "g2-133",
+    "stageId": "tohoku_area1",
+    "kanji": "麦",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "バク"
+    ],
+    "kunyomi": [
+      "むぎ"
+    ],
+    "meaning": "むぎの こと",
+    "examples": [
+      {
+        "word": "麦",
+        "reading": "むぎ",
+        "sentence": "畑（はたけ）に 麦（むぎ）を まく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-134",
+    "stageId": "tohoku_area1",
+    "kanji": "半",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "なか"
+    ],
+    "meaning": "はんぶんの なかば",
+    "examples": [
+      {
+        "word": "半",
+        "reading": "なかば",
+        "sentence": "りんごを 半（なかば）に わける。"
+      }
+    ]
+  },
+  {
+    "id": "g2-135",
+    "stageId": "tohoku_area1",
+    "kanji": "番",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "バン"
+    ],
+    "kunyomi": [],
+    "meaning": "ばんめ",
+    "examples": [
+      {
+        "word": "番",
+        "reading": "ばんめ",
+        "sentence": "一番（いちばん）を えらぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-136",
+    "stageId": "tohoku_area1",
+    "kanji": "父",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "ちち"
+    ],
+    "meaning": "おやの だんせい",
+    "examples": [
+      {
+        "word": "父",
+        "reading": "ちち",
+        "sentence": "父（ちち）と 本（ほん）を 読（よ）む。"
+      }
+    ]
+  },
+  {
+    "id": "g2-137",
+    "stageId": "tohoku_area1",
+    "kanji": "風",
+    "grade": 2,
+    "strokes": 9,
+    "onyomi": [
+      "フウ"
+    ],
+    "kunyomi": [
+      "かぜ",
+      "かざ"
+    ],
+    "meaning": "そらを ふく き",
+    "examples": [
+      {
+        "word": "風",
+        "reading": "かぜ",
+        "sentence": "風（かぜ）が 木（き）を ゆらす。"
+      }
+    ]
+  },
+  {
+    "id": "g2-138",
+    "stageId": "tohoku_area1",
+    "kanji": "分",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "フン",
+      "ブン",
+      "ブ"
+    ],
+    "kunyomi": [
+      "わ"
+    ],
+    "meaning": "きる こと",
+    "examples": [
+      {
+        "word": "分",
+        "reading": "わ",
+        "sentence": "りんごを 分（わ）けて みる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-139",
+    "stageId": "tohoku_area1",
+    "kanji": "聞",
+    "grade": 2,
+    "strokes": 14,
+    "onyomi": [
+      "ブン"
+    ],
+    "kunyomi": [
+      "き"
+    ],
+    "meaning": "きく こと",
+    "examples": [
+      {
+        "word": "聞",
+        "reading": "き",
+        "sentence": "音（おと）を 聞（き）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-140",
+    "stageId": "tohoku_area1",
+    "kanji": "米",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "ベイ",
+      "マイ"
+    ],
+    "kunyomi": [
+      "こめ"
+    ],
+    "meaning": "ごはんの もと",
+    "examples": [
+      {
+        "word": "米",
+        "reading": "こめ",
+        "sentence": "米（こめ）を 食（た）べる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-141",
+    "stageId": "tohoku_area1",
+    "kanji": "歩",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "ホ"
+    ],
+    "kunyomi": [
+      "あゆ"
+    ],
+    "meaning": "あるく こと",
+    "examples": [
+      {
+        "word": "歩",
+        "reading": "ある",
+        "sentence": "公園（こうえん）を 歩（ある）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-142",
+    "stageId": "tohoku_area1",
+    "kanji": "母",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "ボ"
+    ],
+    "kunyomi": [
+      "はは"
+    ],
+    "meaning": "ははの こと",
+    "examples": [
+      {
+        "word": "母",
+        "reading": "はは",
+        "sentence": "母（はは）と 歌（うた）を うたう。"
+      }
+    ]
+  },
+  {
+    "id": "g2-143",
+    "stageId": "tohoku_area1",
+    "kanji": "方",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "かた"
+    ],
+    "meaning": "そば や まわり",
+    "examples": [
+      {
+        "word": "方",
+        "reading": "かた",
+        "sentence": "道（みち）の かたを 歩（ある）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-144",
+    "stageId": "tohoku_area1",
+    "kanji": "北",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "ホク"
+    ],
+    "kunyomi": [
+      "きた"
+    ],
+    "meaning": "きたの ほう",
+    "examples": [
+      {
+        "word": "北",
+        "reading": "きた",
+        "sentence": "北（きた）から 風（かぜ）が 吹（ふ）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-145",
+    "stageId": "tohoku_area1",
+    "kanji": "毎",
+    "grade": 2,
+    "strokes": 6,
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [],
+    "meaning": "いつも",
+    "examples": [
+      {
+        "word": "毎",
+        "reading": "まい",
+        "sentence": "毎（まい）朝（あさ） かおを あらう。"
+      }
+    ]
+  },
+  {
+    "id": "g2-146",
+    "stageId": "tohoku_area1",
+    "kanji": "妹",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [
+      "いもうと"
+    ],
+    "meaning": "おなじ りょうしんの おんなのこ",
+    "examples": [
+      {
+        "word": "妹",
+        "reading": "いもうと",
+        "sentence": "いつも 妹（いもうと）と あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-147",
+    "stageId": "tohoku_area1",
+    "kanji": "万",
+    "grade": 2,
+    "strokes": 3,
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "kunyomi": [],
+    "meaning": "たくさんの かず",
+    "examples": [
+      {
+        "word": "万",
+        "reading": "まん",
+        "sentence": "万（まん）の お金（おかね）は おおい。"
+      }
+    ]
+  },
+  {
+    "id": "g2-148",
+    "stageId": "tohoku_area1",
+    "kanji": "明",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kunyomi": [
+      "あか"
+    ],
+    "meaning": "あかるい ひかり",
+    "examples": [
+      {
+        "word": "明",
+        "reading": "あか",
+        "sentence": "明（あか）い ひかりが さす。"
+      }
+    ]
+  },
+  {
+    "id": "g2-149",
+    "stageId": "tohoku_area1",
+    "kanji": "鳴",
+    "grade": 2,
+    "strokes": 14,
+    "onyomi": [
+      "メイ"
+    ],
+    "kunyomi": [
+      "な"
+    ],
+    "meaning": "なく こと",
+    "examples": [
+      {
+        "word": "鳴",
+        "reading": "な",
+        "sentence": "朝（あさ）に 鳥（とり）が 鳴（な）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-150",
+    "stageId": "tohoku_area1",
+    "kanji": "毛",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "モウ"
+    ],
+    "kunyomi": [
+      "け"
+    ],
+    "meaning": "けの こと",
+    "examples": [
+      {
+        "word": "毛",
+        "reading": "け",
+        "sentence": "犬（いぬ）の 毛（け）を さわる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-151",
+    "stageId": "tohoku_area1",
+    "kanji": "門",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "モン"
+    ],
+    "kunyomi": [
+      "かど"
+    ],
+    "meaning": "とびら の こと",
+    "examples": [
+      {
+        "word": "門",
+        "reading": "かど",
+        "sentence": "大（おお）きな 門（かど）を くぐる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-152",
+    "stageId": "tohoku_area1",
+    "kanji": "夜",
+    "grade": 2,
+    "strokes": 8,
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "よる",
+      "よ"
+    ],
+    "meaning": "くらい とき",
+    "examples": [
+      {
+        "word": "夜",
+        "reading": "よる",
+        "sentence": "夜（よる）に 月（つき）が かがやく。"
+      }
+    ]
+  },
+  {
+    "id": "g2-153",
+    "stageId": "tohoku_area1",
+    "kanji": "野",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "の"
+    ],
+    "meaning": "ひろい はら",
+    "examples": [
+      {
+        "word": "野",
+        "reading": "の",
+        "sentence": "野（の）で かけっこする。"
+      }
+    ]
+  },
+  {
+    "id": "g2-154",
+    "stageId": "tohoku_area1",
+    "kanji": "友",
+    "grade": 2,
+    "strokes": 4,
+    "onyomi": [
+      "ユウ"
+    ],
+    "kunyomi": [
+      "とも"
+    ],
+    "meaning": "ともだち",
+    "examples": [
+      {
+        "word": "友",
+        "reading": "とも",
+        "sentence": "友（とも）と あそぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-155",
+    "stageId": "tohoku_area1",
+    "kanji": "用",
+    "grade": 2,
+    "strokes": 5,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "もち"
+    ],
+    "meaning": "つかう こと",
+    "examples": [
+      {
+        "word": "用",
+        "reading": "もちいる",
+        "sentence": "水（みず）を よく 用（もちいる）。"
+      }
+    ]
+  },
+  {
+    "id": "g2-156",
+    "stageId": "tohoku_area1",
+    "kanji": "曜",
+    "grade": 2,
+    "strokes": 18,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "meaning": "日曜日の もじ",
+    "examples": [
+      {
+        "word": "曜",
+        "reading": "よう",
+        "sentence": "ひょうで 曜（よう）を みる。"
+      }
+    ]
+  },
+  {
+    "id": "g2-157",
+    "stageId": "tohoku_area1",
+    "kanji": "来",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "ライ"
+    ],
+    "kunyomi": [
+      "く"
+    ],
+    "meaning": "くる こと",
+    "examples": [
+      {
+        "word": "来",
+        "reading": "く",
+        "sentence": "今日は 友だちが 来（く）る。"
+      }
+    ]
+  },
+  {
+    "id": "g2-158",
+    "stageId": "tohoku_area1",
+    "kanji": "里",
+    "grade": 2,
+    "strokes": 7,
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [
+      "さと"
+    ],
+    "meaning": "さとの こと",
+    "examples": [
+      {
+        "word": "里",
+        "reading": "さと",
+        "sentence": "山（やま）の 里（さと）に 行（い）く。"
+      }
+    ]
+  },
+  {
+    "id": "g2-159",
+    "stageId": "tohoku_area1",
+    "kanji": "理",
+    "grade": 2,
+    "strokes": 11,
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [],
+    "meaning": "ことを ととのえる こと",
+    "examples": [
+      {
+        "word": "理",
+        "reading": "り",
+        "sentence": "算数（さんすう）の 理（り）を 学（まな）ぶ。"
+      }
+    ]
+  },
+  {
+    "id": "g2-160",
+    "stageId": "tohoku_area1",
+    "kanji": "話",
+    "grade": 2,
+    "strokes": 13,
+    "onyomi": [
+      "ワ"
+    ],
+    "kunyomi": [
+      "はな"
+    ],
+    "meaning": "はなす こと",
+    "examples": [
+      {
+        "word": "話",
+        "reading": "はな",
+        "sentence": "夜（よる） 家（いえ）で 話（はな）す。"
+      }
+    ]
+  }
+]
