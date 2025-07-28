@@ -15,7 +15,7 @@ import { subscribe, publish } from './core/eventBus.js';
 import reviewQueue from './models/reviewQueue.js';
 import DataSync from './services/firebase/dataSync.js';
 import { FSM } from './core/stateMachine.js';
-import { setupFSM } from './init/fsmSetup.js';
+import { setupFSM } from './init/fsmsetup.js';
 import { checkAchievements } from './core/achievementManager.js';
 
 /* ----------------------------- 実績通知システム ----------------------------- */
