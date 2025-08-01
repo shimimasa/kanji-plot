@@ -1,0 +1,281 @@
+[
+  {
+    "id": "first_victory",
+    "title": "はじめの一歩",
+    "description": "初めてモンスターを倒した",
+    "condition": {
+      "type": "enemiesDefeated",
+      "value": 1
+    }
+  },
+  {
+    "id": "defeat_10_enemies",
+    "title": "初陣",
+    "description": "モンスターを10体倒した",
+    "condition": {
+      "type": "enemiesDefeated",
+      "value": 10
+    }
+  },
+  {
+    "id": "defeat_50_enemies",
+    "title": "戦士",
+    "description": "モンスターを50体倒した",
+    "condition": {
+      "type": "enemiesDefeated",
+      "value": 50
+    }
+  },
+  {
+    "id": "defeat_100_enemies",
+    "title": "百戦錬磨",
+    "description": "モンスターを100体倒した",
+    "condition": {
+      "type": "enemiesDefeated",
+      "value": 100
+    }
+  },
+  {
+    "id": "reach_level_5",
+    "title": "成長の兆し",
+    "description": "レベル5に到達した",
+    "condition": {
+      "type": "levelReached",
+      "value": 5
+    }
+  },
+  {
+    "id": "reach_level_10",
+    "title": "一人前",
+    "description": "レベル10に到達した",
+    "condition": {
+      "type": "levelReached",
+      "value": 10
+    }
+  },
+  {
+    "id": "reach_level_20",
+    "title": "熟練者",
+    "description": "レベル20に到達した",
+    "condition": {
+      "type": "levelReached",
+      "value": 20
+    }
+  },
+  {
+    "id": "reach_level_50",
+    "title": "達人",
+    "description": "レベル50に到達した",
+    "condition": {
+      "type": "levelReached",
+      "value": 50
+    }
+  },
+  {
+    "id": "clear_first_stage",
+    "title": "旅立ち",
+    "description": "初めてのステージをクリアした",
+    "condition": {
+      "type": "stagesCleared",
+      "value": 1
+    }
+  },
+  {
+    "id": "clear_hokkaido",
+    "title": "北の大地の覇者",
+    "description": "北海道地方をクリアした",
+    "condition": {
+      "type": "stageCleared",
+      "value": "hokkaido_area1"
+    }
+  },
+  {
+    "id": "clear_tohoku_all",
+    "title": "東北制覇",
+    "description": "東北地方の全ステージをクリアした",
+    "condition": {
+      "type": "regionCleared",
+      "value": "tohoku"
+    }
+  },
+  {
+    "id": "clear_kanto_all",
+    "title": "関東統一",
+    "description": "関東地方の全ステージをクリアした",
+    "condition": {
+      "type": "regionCleared",
+      "value": "kanto"
+    }
+  },
+  {
+    "id": "combo_5",
+    "title": "連続ヒット",
+    "description": "5回連続で正解した",
+    "condition": {
+      "type": "comboReached",
+      "value": 5
+    }
+  },
+  {
+    "id": "combo_10",
+    "title": "完璧な集中",
+    "description": "10回連続で正解した",
+    "condition": {
+      "type": "comboReached",
+      "value": 10
+    }
+  },
+  {
+    "id": "correct_100",
+    "title": "学習者",
+    "description": "漢字を100回正解した",
+    "condition": {
+      "type": "totalCorrect",
+      "value": 100
+    }
+  },
+  {
+    "id": "correct_500",
+    "title": "勉強家",
+    "description": "漢字を500回正解した",
+    "condition": {
+      "type": "totalCorrect",
+      "value": 500
+    }
+  },
+  {
+    "id": "correct_1000",
+    "title": "漢字マスター",
+    "description": "漢字を1000回正解した",
+    "condition": {
+      "type": "totalCorrect",
+      "value": 1000
+    }
+  },
+  {
+    "id": "kanji_dex_50",
+    "title": "コレクター",
+    "description": "漢字図鑑に50個の漢字を登録した",
+    "condition": {
+      "type": "kanjiCollected",
+      "value": 50
+    }
+  },
+  {
+    "id": "kanji_dex_100",
+    "title": "図鑑博士",
+    "description": "漢字図鑑に100個の漢字を登録した",
+    "condition": {
+      "type": "kanjiCollected",
+      "value": 100
+    }
+  },
+  {
+    "id": "monster_dex_20",
+    "title": "モンスター研究者",
+    "description": "モンスター図鑑に20体のモンスターを登録した",
+    "condition": {
+      "type": "monstersCollected",
+      "value": 20
+    }
+  },
+  {
+    "id": "monster_dex_50",
+    "title": "モンスター博士",
+    "description": "モンスター図鑑に50体のモンスターを登録した",
+    "condition": {
+      "type": "monstersCollected",
+      "value": 50
+    }
+  },
+  {
+    "id": "skill_points_10",
+    "title": "スキル習得",
+    "description": "スキルポイントを10回使用した",
+    "condition": {
+      "type": "skillPointsUsed",
+      "value": 10
+    }
+  },
+  {
+    "id": "no_mistakes_stage",
+    "title": "完璧主義者",
+    "description": "1つのステージを間違いなしでクリアした",
+    "condition": {
+      "type": "perfectStage",
+      "value": 1
+    }
+  },
+  {
+    "id": "defeat_boss_10",
+    "title": "ボスハンター",
+    "description": "ボスを10体倒した",
+    "condition": {
+      "type": "bossesDefeated",
+      "value": 10
+    }
+  },
+  {
+    "id": "playtime_1hour",
+    "title": "継続は力なり",
+    "description": "累計1時間プレイした",
+    "condition": {
+      "type": "playtimeMinutes",
+      "value": 60
+    }
+  },
+  {
+    "id": "playtime_10hours",
+    "title": "熱心な学習者",
+    "description": "累計10時間プレイした",
+    "condition": {
+      "type": "playtimeMinutes",
+      "value": 600
+    }
+  },
+  {
+    "id": "grade1_master",
+    "title": "1年生マスター",
+    "description": "1年生の漢字をすべて覚えた",
+    "condition": {
+      "type": "gradeCompleted",
+      "value": 1
+    }
+  },
+  {
+    "id": "grade2_master",
+    "title": "2年生マスター",
+    "description": "2年生の漢字をすべて覚えた",
+    "condition": {
+      "type": "gradeCompleted",
+      "value": 2
+    }
+  },
+  {
+    "id": "grade3_master",
+    "title": "3年生マスター",
+    "description": "3年生の漢字をすべて覚えた",
+    "condition": {
+      "type": "gradeCompleted",
+      "value": 3
+    }
+  },
+  {
+    "id": "weakness_hit_50",
+    "title": "弱点の達人",
+    "description": "敵の弱点を50回突いた",
+    "condition": {
+      "type": "weaknessHits",
+      "value": 50
+    }
+  },
+  {
+    "id": "healing_master",
+    "title": "回復の達人",
+    "description": "回復を100回成功させた",
+    "condition": {
+      "type": "healsSuccessful",
+      "value": 100
+    }
+  }
+] 

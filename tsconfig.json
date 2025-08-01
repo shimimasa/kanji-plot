@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "allowJs": true,      // .jsファイルも含める
+      "checkJs": false,     // .jsの構文チェックを無効化（今回のポイント）
+      "target": "es6",
+      "module": "es6",
+      "moduleResolution": "node",
+      "strict": false
+    },
+    "include": ["src"]
+  }
